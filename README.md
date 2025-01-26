@@ -8,13 +8,13 @@
   <a href="https://twitter.com/myselfkc10">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/krishna-chaitanya-arekapudi">
+  <a href="https://www.linkedin.com/in/krishnachaitanya10/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/mightbekc21">
+  <a href="https://instagram.com/myselfkc21_xo">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.codechef.com/users/myselfkc21">
+  <a href="https://www.codechef.com/users/myselfkc10">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </div>
@@ -60,8 +60,8 @@ const krishna = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfkc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=myselfkc&show_icons=true&locale=en" alt="GitHub stats" />
+![myselfkc21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfkc21&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  ![myselfkc21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=myselfkc21&theme=vue-dark&hide_border=true)
 </div>
 
 ---
