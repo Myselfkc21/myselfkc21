@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Projects related to Web development**
 
-- 👨‍💻 All of my projects are available at [https://myselfkc21.github.io/html.chaitanya/](https://myselfkc21.github.io/html.chaitanya/)
+- 👨‍💻 All of my projects are available at ([https://myselfkc21.github.io/html.chaitanya/](https://chaitanyaportfolio-five.vercel.app/))
 
 - 📫 How to reach me **arekapudikrishnachaitanya@gmail.com**
 
