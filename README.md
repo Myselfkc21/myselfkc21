@@ -1,6 +1,10 @@
 # <div align="center">👋 Hello World, I'm Krishna Chaitanya</div>
 
 <div align="center">
+  <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="850" alt="banner" />
+</div>
+
+<div align="center">
   <a href="https://twitter.com/myselfkc10">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
@@ -13,10 +17,6 @@
   <a href="https://www.codechef.com/users/myselfkc21">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="/api/placeholder/850/80" alt="banner" />
 </div>
 
 ## 💫 About Me
@@ -32,7 +32,7 @@ const krishna = {
 };
 ```
 
-<img align="right" src="/api/placeholder/400/320" alt="coding animation" />
+<img align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" alt="coding animation" />
 
 ## 🚀 Tech Stack
 
@@ -60,8 +60,8 @@ const krishna = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="/api/placeholder/495/195" alt="Top Languages" />
-  <img src="/api/placeholder/495/195" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfkc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myselfkc&show_icons=true&locale=en" alt="GitHub stats" />
 </div>
 
 ---
